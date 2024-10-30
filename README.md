@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mayoremmax 
+- 👀 I’m interested in the science of data
+- 🌱 I’m currently learning IoT and Data Science
